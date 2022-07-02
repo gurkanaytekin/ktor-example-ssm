@@ -1,0 +1,1 @@
+rootProject.name = "ssm.com.ssm-server-ktor"
